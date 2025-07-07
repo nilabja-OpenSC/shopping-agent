@@ -1,0 +1,201 @@
+user_id,age,gender,location,signup_date,preferred_categories
+user_1,44,female,Port Todd,2023-01-06,"Home, Electronics"
+user_2,44,female,North Jessica,2021-01-12,Clothing
+user_3,42,female,Lake Evelyn,2020-09-14,"Clothing, Toys"
+user_4,58,other,New Johnton,2022-12-23,"Toys, Clothing"
+user_5,38,other,Jameschester,2020-05-17,"Books, Home"
+user_6,31,male,Lake Cynthiaview,2021-10-04,"Clothing, Toys, Books"
+user_7,37,female,New Annastad,2025-05-01,Toys
+user_8,45,female,Port Chris,2020-01-08,"Home, Clothing"
+user_9,38,other,Justinport,2022-03-22,"Home, Electronics"
+user_10,40,female,North Jacqueline,2020-02-14,"Electronics, Clothing, Toys"
+user_11,28,male,Patriciachester,2025-04-26,"Clothing, Books, Home"
+user_12,19,female,South Edward,2023-08-25,Clothing
+user_13,37,other,Patrickborough,2022-01-06,"Electronics, Home, Toys"
+user_14,41,female,Davisview,2024-03-25,Clothing
+user_15,42,other,Davidmouth,2023-01-30,Clothing
+user_16,54,male,Robinshire,2024-09-28,"Toys, Books, Electronics"
+user_17,39,male,Lake Ashley,2020-01-07,"Books, Electronics, Clothing"
+user_18,41,female,Ortizfurt,2022-01-28,"Toys, Electronics"
+user_19,32,female,Markborough,2023-02-03,"Electronics, Home, Clothing"
+user_20,29,other,Port Megan,2021-02-07,"Home, Books, Clothing"
+user_21,63,male,New Bethstad,2020-11-05,"Electronics, Home"
+user_22,48,male,Port Cynthiahaven,2021-11-06,"Clothing, Books"
+user_23,60,male,West Danielborough,2024-08-22,"Books, Clothing, Electronics"
+user_24,48,male,Port Summer,2021-09-25,"Electronics, Toys"
+user_25,47,female,Jenniferborough,2020-03-04,Toys
+user_26,58,female,Elizabethfurt,2021-11-19,Books
+user_27,37,other,East Brianberg,2023-12-10,Clothing
+user_28,25,male,Judybury,2024-03-29,Clothing
+user_29,61,female,Christopherfort,2020-11-17,Clothing
+user_30,47,female,Lesterfurt,2022-07-24,Home
+user_31,52,male,Colemanstad,2022-09-14,Books
+user_32,38,female,North Richardland,2021-11-12,Clothing
+user_33,64,other,North Brendaport,2022-03-02,"Toys, Home, Electronics"
+user_34,57,other,Dorseyfort,2024-11-24,"Books, Toys"
+user_35,45,male,East Robert,2020-10-30,"Clothing, Electronics, Home"
+user_36,56,other,North Curtis,2020-12-09,Electronics
+user_37,34,female,Stevenchester,2024-04-09,"Books, Clothing, Home"
+user_38,29,other,Brownville,2021-08-09,"Home, Toys, Books"
+user_39,35,female,Royville,2022-04-08,"Home, Books, Electronics"
+user_40,64,male,Port Cindy,2023-02-14,"Toys, Books, Home"
+user_41,45,male,Austinborough,2025-04-02,"Home, Books, Clothing"
+user_42,20,female,Lake Jessicashire,2020-03-12,"Home, Toys"
+user_43,32,female,Robinborough,2022-07-23,"Home, Books"
+user_44,33,other,Christinaland,2022-02-17,"Electronics, Books"
+user_45,39,female,Hickschester,2022-05-18,"Toys, Home"
+user_46,48,male,South Paulstad,2024-01-16,"Electronics, Toys, Home"
+user_47,48,female,Watsonberg,2020-12-12,Books
+user_48,18,other,West Cindy,2023-06-17,"Home, Toys, Clothing"
+user_49,28,other,West Kathleenport,2022-08-03,"Books, Toys, Clothing"
+user_50,23,female,Brookeburgh,2023-02-27,"Books, Electronics, Clothing"
+user_51,40,other,West Kelseyfurt,2024-08-02,"Clothing, Home, Toys"
+user_52,26,other,Khanland,2020-11-06,Books
+user_53,33,male,Lake Tanya,2021-03-21,Books
+user_54,55,female,Johnsonchester,2025-06-13,"Electronics, Toys"
+user_55,61,male,Port Courtneyberg,2024-02-03,Books
+user_56,36,male,Luishaven,2020-03-08,Clothing
+user_57,62,other,South John,2023-09-13,"Home, Toys, Clothing"
+user_58,30,male,South Aaron,2023-08-19,Clothing
+user_59,49,female,Batesville,2024-10-29,Home
+user_60,53,female,Moorefort,2020-08-12,Books
+user_61,26,female,Lake Kaitlyn,2024-05-24,Books
+user_62,63,male,Mistyton,2020-03-08,"Clothing, Home, Toys"
+user_63,63,female,Walkerville,2022-08-25,"Books, Electronics"
+user_64,54,female,East Jillianside,2021-09-14,"Electronics, Toys"
+user_65,48,male,Medinaborough,2021-06-24,"Electronics, Home, Clothing"
+user_66,48,male,West Linda,2025-02-19,"Home, Toys"
+user_67,36,male,Valdeztown,2021-02-26,"Clothing, Toys"
+user_68,19,male,Castillostad,2025-04-20,Electronics
+user_69,62,other,Watersshire,2021-03-20,"Books, Electronics, Clothing"
+user_70,49,male,Whitestad,2021-04-23,"Clothing, Toys, Books"
+user_71,60,male,New Bradley,2020-10-08,"Electronics, Books"
+user_72,51,female,East Joshuaton,2020-10-12,"Books, Home"
+user_73,18,female,Brandonfort,2022-10-05,"Toys, Home"
+user_74,38,male,East Brianshire,2020-08-14,"Home, Toys"
+user_75,20,male,Maryview,2020-11-18,"Toys, Books, Home"
+user_76,44,male,Shawland,2022-05-14,Clothing
+user_77,61,female,New Stephanieland,2023-08-26,"Books, Clothing, Home"
+user_78,24,female,Turnerfurt,2024-10-22,"Electronics, Toys"
+user_79,50,male,Lake Martin,2020-07-28,"Clothing, Home"
+user_80,26,female,Heatherburgh,2023-05-22,"Electronics, Books, Toys"
+user_81,47,female,Lindsayborough,2024-04-28,"Toys, Electronics, Home"
+user_82,35,male,West Josephville,2022-08-25,"Toys, Clothing, Books"
+user_83,43,female,South Ginashire,2024-06-23,"Toys, Electronics, Home"
+user_84,37,male,Port Jacquelineport,2021-06-05,Electronics
+user_85,55,other,Matthewchester,2021-11-12,Clothing
+user_86,58,other,Lake Josephberg,2023-11-05,Clothing
+user_87,48,other,West Michelle,2023-05-21,"Books, Toys"
+user_88,25,female,East Josephtown,2020-04-07,"Home, Books"
+user_89,40,other,North Andrew,2025-01-30,"Clothing, Books, Home"
+user_90,42,female,Port Dakota,2021-10-03,"Electronics, Clothing"
+user_91,64,male,Phillipshire,2024-08-25,Clothing
+user_92,18,other,South Cynthia,2025-01-18,"Toys, Clothing"
+user_93,63,female,Elizabethfort,2025-06-21,"Home, Toys"
+user_94,35,other,Lake Thomasfort,2025-01-09,"Toys, Home, Clothing"
+user_95,36,female,South Tonyaport,2021-12-16,Electronics
+user_96,59,female,Drakeburgh,2020-05-12,"Clothing, Books, Electronics"
+user_97,23,male,Traciton,2024-12-22,"Toys, Books, Clothing"
+user_98,34,female,Gonzalesshire,2025-02-06,"Toys, Home"
+user_99,63,female,Gentrytown,2024-01-23,"Toys, Books, Clothing"
+user_100,62,other,Port Stephanieport,2020-01-08,Electronics
+user_101,25,male,East James,2021-04-19,"Electronics, Books"
+user_102,59,female,Sloanborough,2021-10-27,"Clothing, Books, Electronics"
+user_103,26,other,Sylviamouth,2022-02-04,"Electronics, Toys"
+user_104,54,male,Bellland,2023-12-14,Home
+user_105,44,female,Johnsonport,2025-05-15,Electronics
+user_106,53,other,Mckinneyfurt,2021-08-04,"Home, Clothing, Electronics"
+user_107,23,male,North Virginia,2024-03-04,"Toys, Clothing"
+user_108,23,male,Lake Janetton,2022-07-31,"Clothing, Electronics, Toys"
+user_109,62,male,North Dawnport,2023-08-15,Home
+user_110,21,male,East Jasmine,2024-05-12,"Electronics, Home, Toys"
+user_111,39,female,Lake Joseph,2020-01-19,Home
+user_112,57,female,West Sarahchester,2020-11-25,Toys
+user_113,44,male,Scottland,2025-02-01,"Home, Books"
+user_114,54,male,Robertside,2023-06-23,"Electronics, Clothing"
+user_115,19,female,North Keith,2025-06-25,"Toys, Home"
+user_116,26,other,Lindsayfurt,2025-02-27,Toys
+user_117,28,male,Millerchester,2021-05-10,Clothing
+user_118,37,female,Mcgeemouth,2025-06-06,Books
+user_119,60,female,East Danielhaven,2024-10-21,"Clothing, Electronics"
+user_120,56,other,Michaelborough,2023-07-18,Toys
+user_121,31,female,Jessicashire,2025-02-17,Books
+user_122,43,male,East Megan,2020-06-04,Clothing
+user_123,55,female,Jesusburgh,2021-11-09,Home
+user_124,47,male,Port James,2025-03-22,"Clothing, Home"
+user_125,53,female,East David,2025-02-14,Electronics
+user_126,55,male,Wyattton,2022-11-08,"Books, Electronics, Clothing"
+user_127,52,male,Port Monica,2023-10-17,Home
+user_128,23,female,Kevinview,2022-08-07,"Home, Clothing, Electronics"
+user_129,20,male,Port Meghanhaven,2020-01-01,Toys
+user_130,18,female,New Nicholas,2020-11-18,"Toys, Clothing, Books"
+user_131,35,female,South Stephen,2023-08-27,Books
+user_132,40,female,West Samuel,2020-07-26,Electronics
+user_133,49,male,Welchville,2024-02-16,Clothing
+user_134,46,female,Carrilloshire,2025-05-29,"Toys, Home"
+user_135,40,other,East Albert,2020-01-13,Books
+user_136,53,male,Millerbury,2020-10-01,"Books, Home"
+user_137,23,other,Lake Andrew,2023-12-29,"Home, Clothing"
+user_138,34,other,Port Joshua,2023-07-11,Books
+user_139,35,other,Mckinneychester,2025-01-05,"Electronics, Clothing, Toys"
+user_140,48,other,Johnsonborough,2021-06-24,"Clothing, Home"
+user_141,23,female,Warrenfurt,2024-06-04,"Books, Electronics"
+user_142,51,other,East Steven,2022-06-18,"Clothing, Books, Toys"
+user_143,61,male,Carolynmouth,2022-10-23,Toys
+user_144,61,other,Evelynhaven,2021-11-19,"Electronics, Books"
+user_145,44,other,Lewisbury,2021-05-31,"Clothing, Electronics"
+user_146,53,other,Mcclainport,2022-08-01,Toys
+user_147,59,female,Smithbury,2023-05-17,"Electronics, Books, Clothing"
+user_148,42,other,East Alan,2023-03-30,Books
+user_149,27,other,Newmanview,2023-07-09,"Home, Electronics, Toys"
+user_150,56,other,Hannafort,2023-08-06,Clothing
+user_151,63,male,East Abigail,2021-01-10,Clothing
+user_152,56,female,Morganville,2023-04-06,Electronics
+user_153,29,female,Christopherview,2022-09-06,"Electronics, Books, Home"
+user_154,28,female,Danielland,2021-03-06,Home
+user_155,60,male,Paulville,2022-11-20,"Books, Home"
+user_156,20,other,Port Lauraburgh,2023-12-02,Toys
+user_157,39,male,Rosetown,2022-03-02,"Books, Electronics, Toys"
+user_158,21,female,South Stevenview,2025-06-04,"Clothing, Books"
+user_159,25,female,North Eric,2024-09-19,"Toys, Clothing"
+user_160,31,female,Jacobmouth,2023-03-21,"Toys, Electronics"
+user_161,37,male,Gabrielborough,2023-06-06,Toys
+user_162,41,female,South Zacharyhaven,2022-01-17,"Electronics, Toys"
+user_163,31,other,Richardbury,2024-01-03,Clothing
+user_164,45,male,Lake Stevenchester,2023-10-25,"Toys, Clothing"
+user_165,33,other,Laurentown,2023-08-22,"Toys, Electronics"
+user_166,49,female,Kimberlymouth,2023-03-17,"Home, Books"
+user_167,64,female,Oconnorburgh,2020-08-14,"Clothing, Books, Home"
+user_168,29,male,Debrahaven,2025-02-25,"Clothing, Toys, Books"
+user_169,33,other,Bakerbury,2020-05-15,"Electronics, Books, Home"
+user_170,36,male,Sherylburgh,2022-12-18,"Electronics, Books"
+user_171,22,other,Port Thomas,2021-02-09,"Home, Books, Clothing"
+user_172,29,female,Mariaport,2022-05-16,Home
+user_173,46,male,North Tammyville,2024-01-09,Books
+user_174,22,male,Lambville,2022-05-06,"Home, Electronics"
+user_175,59,other,East Robert,2021-06-07,"Clothing, Toys"
+user_176,34,female,Eatonmouth,2025-01-06,Electronics
+user_177,64,female,Lake Tonyaville,2023-12-21,"Books, Electronics"
+user_178,25,other,Lake Steven,2022-04-29,"Clothing, Electronics, Home"
+user_179,57,other,Jimmyville,2021-06-28,"Electronics, Clothing"
+user_180,57,other,West Heather,2024-07-13,"Home, Clothing, Books"
+user_181,47,other,Perezburgh,2021-02-06,"Toys, Books"
+user_182,27,other,North Karenport,2024-10-30,"Books, Toys"
+user_183,37,female,East Sharonhaven,2022-06-20,"Home, Books"
+user_184,62,female,Wheelerburgh,2021-10-09,"Home, Books"
+user_185,33,male,New Robertstad,2022-02-01,"Clothing, Home"
+user_186,58,female,Katiefort,2020-01-06,"Clothing, Books"
+user_187,33,other,Stevenstad,2024-08-07,"Clothing, Electronics, Home"
+user_188,59,female,North April,2024-08-25,Home
+user_189,20,female,Anthonyside,2020-07-11,"Clothing, Toys"
+user_190,40,female,Williamville,2022-06-14,"Toys, Clothing, Books"
+user_191,39,male,East Nicholas,2023-04-22,"Toys, Books"
+user_192,45,male,Schmittside,2025-04-21,Home
+user_193,63,other,Acostaland,2025-04-19,"Home, Clothing"
+user_194,62,other,Lake Bryan,2021-01-09,"Electronics, Toys, Clothing"
+user_195,53,male,Briggsshire,2024-01-14,"Clothing, Electronics, Books"
+user_196,21,female,Christopherstad,2024-04-25,"Books, Toys"
+user_197,55,female,New Williamview,2024-01-11,Toys
+user_198,41,male,Robertfurt,2024-10-25,Home
+user_199,36,other,Schmittberg,2021-09-10,"Clothing, Toys, Electronics"
+user_200,28,female,Port Nicoleton,2023-02-02,"Home, Books"

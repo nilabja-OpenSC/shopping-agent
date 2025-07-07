@@ -1,0 +1,101 @@
+product_id,category,brand,price,tags,image_url
+prod_1,Home,BrandC,789.74,discounted,https://dummyimage.com/101x663
+prod_2,Toys,BrandA,354.68,"new, discounted, popular",https://dummyimage.com/253x930
+prod_3,Electronics,BrandB,171.26,"eco-friendly, popular, new",https://picsum.photos/529/476
+prod_4,Home,BrandC,38.23,"eco-friendly, new, discounted",https://dummyimage.com/540x242
+prod_5,Toys,BrandA,388.79,"new, discounted, popular",https://dummyimage.com/94x350
+prod_6,Home,BrandD,904.04,"popular, new",https://picsum.photos/758/323
+prod_7,Electronics,BrandD,242.79,popular,https://dummyimage.com/785x593
+prod_8,Home,BrandD,210.48,new,https://picsum.photos/265/954
+prod_9,Home,BrandC,969.97,"popular, discounted, eco-friendly",https://dummyimage.com/443x38
+prod_10,Toys,BrandA,29.88,"new, discounted",https://picsum.photos/994/518
+prod_11,Books,BrandA,786.85,"eco-friendly, popular",https://placekitten.com/760/1021
+prod_12,Home,BrandA,324.76,discounted,https://dummyimage.com/757x956
+prod_13,Books,BrandC,42.3,"popular, eco-friendly, new",https://dummyimage.com/557x664
+prod_14,Clothing,BrandA,918.21,"popular, new, eco-friendly",https://picsum.photos/535/519
+prod_15,Home,BrandB,143.94,discounted,https://placekitten.com/512/11
+prod_16,Books,BrandC,554.02,eco-friendly,https://placekitten.com/889/287
+prod_17,Clothing,BrandB,277.68,popular,https://placekitten.com/404/117
+prod_18,Toys,BrandB,69.87,"discounted, popular, eco-friendly",https://placekitten.com/255/507
+prod_19,Home,BrandD,54.67,"eco-friendly, popular",https://picsum.photos/149/1
+prod_20,Toys,BrandC,119.98,"eco-friendly, discounted, popular",https://dummyimage.com/338x856
+prod_21,Clothing,BrandA,76.01,discounted,https://placekitten.com/505/279
+prod_22,Toys,BrandB,761.76,"discounted, eco-friendly",https://picsum.photos/925/935
+prod_23,Toys,BrandC,488.14,"popular, new",https://placekitten.com/489/484
+prod_24,Electronics,BrandA,346.18,"discounted, eco-friendly, popular",https://placekitten.com/739/899
+prod_25,Clothing,BrandD,421.28,discounted,https://picsum.photos/556/650
+prod_26,Toys,BrandC,929.3,"discounted, popular",https://dummyimage.com/1007x459
+prod_27,Books,BrandC,911.2,eco-friendly,https://dummyimage.com/202x709
+prod_28,Clothing,BrandC,717.1,"new, popular, discounted",https://placekitten.com/639/7
+prod_29,Electronics,BrandA,885.26,discounted,https://picsum.photos/26/572
+prod_30,Home,BrandB,323.05,"popular, discounted, new",https://dummyimage.com/833x487
+prod_31,Toys,BrandB,384.2,"popular, eco-friendly, discounted",https://dummyimage.com/959x843
+prod_32,Books,BrandC,615.64,"eco-friendly, discounted",https://dummyimage.com/555x946
+prod_33,Electronics,BrandC,625.51,"new, popular, eco-friendly",https://dummyimage.com/396x249
+prod_34,Clothing,BrandA,484.29,discounted,https://picsum.photos/239/200
+prod_35,Toys,BrandD,403.65,eco-friendly,https://picsum.photos/825/16
+prod_36,Electronics,BrandC,986.25,popular,https://picsum.photos/438/147
+prod_37,Electronics,BrandC,822.02,"popular, new, eco-friendly",https://picsum.photos/322/880
+prod_38,Books,BrandD,437.81,"popular, new",https://picsum.photos/577/374
+prod_39,Home,BrandC,728.66,eco-friendly,https://dummyimage.com/285x545
+prod_40,Home,BrandB,273.21,popular,https://placekitten.com/151/426
+prod_41,Home,BrandC,104.67,"eco-friendly, popular, discounted",https://dummyimage.com/599x849
+prod_42,Clothing,BrandB,355.67,new,https://picsum.photos/805/850
+prod_43,Electronics,BrandA,405.96,"new, popular",https://dummyimage.com/357x99
+prod_44,Clothing,BrandA,21.45,"discounted, eco-friendly, new",https://picsum.photos/254/683
+prod_45,Electronics,BrandB,815.72,discounted,https://picsum.photos/882/130
+prod_46,Books,BrandB,362.4,new,https://placekitten.com/431/857
+prod_47,Books,BrandD,582.52,"popular, discounted",https://dummyimage.com/616x250
+prod_48,Clothing,BrandB,78.59,popular,https://placekitten.com/949/637
+prod_49,Clothing,BrandB,179.12,"discounted, popular, new",https://picsum.photos/236/878
+prod_50,Books,BrandC,890.25,"new, discounted, popular",https://placekitten.com/726/355
+prod_51,Toys,BrandD,610.64,"popular, discounted",https://picsum.photos/1000/821
+prod_52,Home,BrandB,950.53,discounted,https://placekitten.com/1011/24
+prod_53,Home,BrandB,998.76,"popular, new, eco-friendly",https://picsum.photos/657/144
+prod_54,Books,BrandB,375.0,"popular, eco-friendly, discounted",https://dummyimage.com/569x37
+prod_55,Home,BrandC,302.31,new,https://picsum.photos/957/554
+prod_56,Toys,BrandC,859.06,"popular, discounted",https://dummyimage.com/125x843
+prod_57,Toys,BrandC,998.62,new,https://dummyimage.com/329x753
+prod_58,Electronics,BrandA,631.49,new,https://placekitten.com/284/706
+prod_59,Clothing,BrandC,796.17,discounted,https://picsum.photos/549/616
+prod_60,Home,BrandB,782.84,popular,https://placekitten.com/476/423
+prod_61,Toys,BrandC,358.56,eco-friendly,https://dummyimage.com/925x382
+prod_62,Clothing,BrandC,576.4,"eco-friendly, new, discounted",https://picsum.photos/1021/46
+prod_63,Clothing,BrandD,833.89,"eco-friendly, new",https://picsum.photos/629/528
+prod_64,Electronics,BrandB,689.67,"new, popular, discounted",https://dummyimage.com/974x661
+prod_65,Clothing,BrandC,26.06,popular,https://dummyimage.com/567x296
+prod_66,Clothing,BrandA,340.02,"eco-friendly, popular",https://dummyimage.com/281x7
+prod_67,Books,BrandD,148.75,discounted,https://dummyimage.com/109x157
+prod_68,Electronics,BrandC,236.81,"popular, new, discounted",https://placekitten.com/784/552
+prod_69,Electronics,BrandD,905.96,"popular, discounted, eco-friendly",https://picsum.photos/660/682
+prod_70,Home,BrandD,41.71,"new, eco-friendly, popular",https://placekitten.com/166/451
+prod_71,Clothing,BrandA,223.7,eco-friendly,https://placekitten.com/290/149
+prod_72,Home,BrandA,313.02,eco-friendly,https://picsum.photos/210/610
+prod_73,Toys,BrandA,618.8,"new, discounted, eco-friendly",https://dummyimage.com/634x815
+prod_74,Clothing,BrandB,536.43,"new, discounted",https://placekitten.com/381/651
+prod_75,Toys,BrandD,222.18,"discounted, new, eco-friendly",https://picsum.photos/627/203
+prod_76,Books,BrandC,168.42,"discounted, new, eco-friendly",https://placekitten.com/675/873
+prod_77,Clothing,BrandA,240.61,popular,https://picsum.photos/913/901
+prod_78,Home,BrandA,505.02,"discounted, new",https://picsum.photos/493/607
+prod_79,Home,BrandD,274.82,"eco-friendly, discounted, popular",https://placekitten.com/135/838
+prod_80,Clothing,BrandD,947.86,"discounted, eco-friendly, popular",https://placekitten.com/394/211
+prod_81,Home,BrandD,466.55,eco-friendly,https://dummyimage.com/413x327
+prod_82,Clothing,BrandC,63.5,new,https://picsum.photos/711/946
+prod_83,Electronics,BrandB,730.62,"new, popular",https://placekitten.com/532/677
+prod_84,Home,BrandB,332.2,"eco-friendly, discounted",https://placekitten.com/44/351
+prod_85,Clothing,BrandA,655.22,new,https://picsum.photos/583/89
+prod_86,Clothing,BrandB,283.2,new,https://dummyimage.com/1014x629
+prod_87,Home,BrandC,572.89,eco-friendly,https://picsum.photos/969/486
+prod_88,Electronics,BrandB,773.29,"eco-friendly, new",https://dummyimage.com/704x928
+prod_89,Home,BrandC,928.37,"new, discounted",https://dummyimage.com/15x333
+prod_90,Clothing,BrandA,264.82,new,https://picsum.photos/810/684
+prod_91,Electronics,BrandD,338.18,"popular, discounted",https://picsum.photos/168/53
+prod_92,Toys,BrandC,466.95,discounted,https://picsum.photos/805/471
+prod_93,Books,BrandD,927.54,eco-friendly,https://placekitten.com/894/505
+prod_94,Home,BrandA,901.88,new,https://placekitten.com/672/945
+prod_95,Clothing,BrandC,94.43,"popular, new",https://placekitten.com/807/199
+prod_96,Electronics,BrandC,136.27,"discounted, eco-friendly",https://picsum.photos/643/436
+prod_97,Electronics,BrandB,498.03,"eco-friendly, new",https://placekitten.com/559/493
+prod_98,Toys,BrandC,111.09,eco-friendly,https://picsum.photos/228/806
+prod_99,Home,BrandA,348.85,"popular, discounted, new",https://placekitten.com/376/796
+prod_100,Electronics,BrandD,152.64,"popular, new",https://dummyimage.com/545x659
